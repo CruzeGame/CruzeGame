@@ -1,2 +1,2 @@
-CruzeGame
+CruzeGame Launcher
 =========
